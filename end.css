@@ -1,0 +1,116 @@
+.top{
+    background-color:#EAF6F6;
+    margin: 0;
+    
+
+}
+body{
+    text-align: center;
+}
+.top-cloud{
+    position: relative;
+    left: 100px;
+    margin-top: 25px;
+}
+.profile{
+    border-radius: 100%;
+}
+.hr1{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #cbf3f3;
+    width: 5%;
+    border-width: 5px;
+}
+.bottom-cloud{
+    position: relative;
+    right:100px;
+}
+.p1{
+    width:30%;
+    text-align: center;
+    margin: auto;
+    
+}
+.h2{
+    color:#66BFBF;
+    
+
+}
+.h1{
+    color: #66BFBF;
+}
+.img1{
+    width:50%;
+    margin: auto;
+
+
+
+}
+
+.img2{
+    width: 50%;
+    margin: auto;
+}
+.hr2{
+    width: 10%;
+    border-style: none;
+    border-top: dotted;
+    border-width: 5px;
+    border-color: #cbf3f3;
+    margin-bottom: 50px;
+}
+.h3{
+    color: black;
+    margin: auto;
+    margin-bottom: 50px;
+
+}
+.btn {
+    background: #14e3cb;
+    background-image: -webkit-linear-gradient(top, #14e3cb, #3edefa);
+    background-image: -moz-linear-gradient(top, #14e3cb, #2ca8b8);
+    background-image: -ms-linear-gradient(top, #14e3cb, #2c9cb8);
+    background-image: -o-linear-gradient(top, #14e3cb, #2c85b8);
+    background-image: linear-gradient(to bottom, #14e3cb, #2c79b8);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 20px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 25px;
+    padding: 9px 17px 10px 20px;
+    text-decoration: none;
+    margin-bottom: 50px;
+    
+    
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #e42a49, #fa288a);
+    background-image: -moz-linear-gradient(top, #fc2d49, #eb243e);
+    background-image: -ms-linear-gradient(top, #f02a45, #ee315a);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+    
+  }
+  .bottom{
+      background-color: #66BFBF;
+      height: 70px;
+      width: 100%;
+      padding-top: 30px;
+  }
+  .linker{
+      margin-left: 20px;
+  }
+  linker:hover{
+      text-decoration: blanchedalmond;
+  }
+  .hu{
+      color: cornsilk;
+  }
+
+
+
